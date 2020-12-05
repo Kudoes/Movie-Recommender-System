@@ -1,0 +1,13 @@
+name: movie-recommender
+title: movie-recommender
+username:
+account: kashifmkhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3355459
+bundleId: 3946344
+url: https://kashifmkhan.shinyapps.io/movie-recommender/
+when: 1607145024.2736
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|alg1res.jpg|app.R|dat.rds|Final_Results_Comparison.rds|IBCF - Normalization Comparison.jpeg|IBCF_results_nn.rds|IBCF_results_norm.rds|kmkhan2_proj4_report.html|kmkhan2_proj4_report.Rmd|Rcode_W13_Movie_EDA.nb.html|Rcode_W13_Movie_EDA.Rmd|Rcode_W13_Movie_RS.nb.html|Rcode_W13_Movie_RS.Rmd|ROC2.jpeg|System 2.Rmd|System1.Rmd|testingsystem2.R|UBCF Comparison.jpeg|UBCF_Normalization_Comp.rds|UBCF_results.rds|UBCF_results_nn.rds|UBCF_results_norm.rds|backups/server.R|backups/ui.R|recommender-system

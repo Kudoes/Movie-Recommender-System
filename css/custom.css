@@ -1,0 +1,43 @@
+.rateitems {
+   padding-left: 5px; 
+   height: 450px; 
+   overflow-y: scroll;
+}
+
+.border-box {
+   padding: 5px;
+}
+
+.btn-primary {
+   color: white; 
+   font-size: 120%;
+}
+
+.content-wrapper {
+  background-color: #FBFBFB;
+  color: #FBFBFB;
+}
+
+.box {
+  background-color: transparent;
+}
+
+.box-body {
+	background-color: #3D3A40
+}
+
+.navbar {
+  background-color: #e63946
+}
+
+.main-header .logo {
+  background-color: #000000
+}
+
+.main-sidebar {
+  background-color: #242038
+}
+
+.box-header {
+  text-align: center;
+}
