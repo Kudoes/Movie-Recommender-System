@@ -13,8 +13,7 @@ movies = load_clean_movies(ratings)
 # Convert to Sparse Matrix
 ratingmat <- get_sparse_matrix(ratings) # user x movie matrix
 
-# Get Genre List of All Movies and their Weighted RatingS
-genres = get_genre_list(movies)
+# Get Genre List of All Movies and their Weighted Ratings
 film_genre_mat = get_film_genre_mat(movies, ratings)
 
 # Load Model
