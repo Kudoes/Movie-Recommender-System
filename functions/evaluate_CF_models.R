@@ -7,6 +7,7 @@ library(reshape2)
 library(Matrix)
 
 # Load Helper Functions
+# Ensure your working directory is the level above this
 source("functions/helper_functions.R")
 
 set.seed(100)
