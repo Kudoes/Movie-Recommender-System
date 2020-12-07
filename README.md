@@ -12,6 +12,18 @@ This application utilizes a portion of the MovieLens data to recommend movies to
 
 This project was done in R, and deployed on RShiny.
 
+# Folders and Files
+
+1. **css/**: This folder contains the css file used in the Shiny application.
+
+2. **data/**: This folder contains the data files used by the recommender systems in the Shiny application, as well as the pre-trained recommender model.
+
+3. **functions/**: This folder contains the helper functions R file. It also contains the code which is run to compare two primary CF-recommender algorithms and determine the best recommender.
+
+4. **server.R**: The server code for the Shiny application.
+
+5. **ui.R**: The UI code for the Shiny application.
+
 # Sources
 
 This application was made with the help of information and some code from the following locations:
