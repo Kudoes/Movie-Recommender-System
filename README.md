@@ -18,7 +18,11 @@ This project was done in R, and deployed on RShiny.
 
 2. **data/**: This folder contains the data files used by the recommender systems in the Shiny application, as well as the pre-trained recommender model.
 
-3. **functions/**: This folder contains the helper functions R file. It also contains the code which is run to compare two primary CF-recommender algorithms and determine the best recommender.
+3. **functions/**: This folder contains additional code used for the recommender systems.
+
+    - **functions/helper_functions.R**: The helper functions R file. 
+  
+    - **functions/evaluate_CF_models.R**: This file contains the code which is run to compare the two primary CF-recommender algorithms and determine the best recommender.
 
 4. **server.R**: The server code for the Shiny application.
 
